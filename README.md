@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Yacine, and I aim to accomplish one good thing at a time.
 
 <!--
 **taha-yacine10/taha-yacine10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
